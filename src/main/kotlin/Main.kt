@@ -1,5 +1,4 @@
 import java.sql.*
-import kotlin.reflect.typeOf
 
 fun create_connection(path: String): Connection {
     return DriverManager.getConnection("jdbc:sqlite:$path")
