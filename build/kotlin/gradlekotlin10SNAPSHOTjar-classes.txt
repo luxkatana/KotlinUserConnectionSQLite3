@@ -1,0 +1,1 @@
+C:\Users\BiBi\IdeaProjects\gradlekotlin\build\classes\kotlin\main\MainKt.class;C:\Users\BiBi\IdeaProjects\gradlekotlin\build\classes\kotlin\main\User.class
